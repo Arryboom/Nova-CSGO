@@ -2,6 +2,7 @@
 Internal legit-cheat for Counter-Strike: Global Offensive.
 
 The cheat is not even close to finished, as I lost motivation while working on it. However, this can still be used as a base or a source to learn from.
+The SDK is extremely confusing, don't copypaste it.
 
 VAC undetected as of 06/03/2023 (d/m/y)
 
